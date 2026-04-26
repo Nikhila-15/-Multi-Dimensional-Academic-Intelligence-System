@@ -75,7 +75,5 @@ random.seed(42)
 
 This project helped in understanding structured data analysis using Pandas and NumPy, statistical computations, and designing custom performance metrics.
 
-# Declaration
 
-This project is created as part of an academic assignment. All work is original.
 
